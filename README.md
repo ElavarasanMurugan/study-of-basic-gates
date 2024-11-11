@@ -81,7 +81,8 @@ endmodule
  Developed by:Elavarasan M RegisterNumber: 24900162
  
 **Logic symbol & Truthtable**
-![Screenshot (40)](https://github.com/user-attachments/assets/717fce4f-b654-49ea-8886-9364c6b00a8f)
+![experiment 1 logic diagram](https://github.com/user-attachments/assets/2262e637-dd0b-448b-8fe2-3c34a2b0be2c)
+![experiment 1 truth table](https://github.com/user-attachments/assets/81640cfb-cf9e-4f0e-a7d9-561910feeabb)
 
 **RTL realization Output:** 
 
