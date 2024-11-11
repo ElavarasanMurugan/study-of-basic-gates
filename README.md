@@ -82,7 +82,8 @@ endmodule
  
 **Logic symbol & Truthtable**
 ![experiment 1 logic diagram](https://github.com/user-attachments/assets/2262e637-dd0b-448b-8fe2-3c34a2b0be2c)
-![experiment 1 truth table](https://github.com/user-attachments/assets/81640cfb-cf9e-4f0e-a7d9-561910feeabb)
+![Experiment 1 truth table ](https://github.com/user-attachments/assets/c3c8b7c2-7f6d-4491-a320-0a06e0c9b1d9)
+
 
 **RTL realization Output:** 
 
